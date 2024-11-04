@@ -34,6 +34,4 @@ Esta API permite obtener información sobre superhéroes. A continuación, se de
 - Express.js
 - MongoDB y Mongoose
 
-# Autor:
-
 ## Gonzalo Romero
